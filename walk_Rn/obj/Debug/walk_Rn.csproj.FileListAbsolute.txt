@@ -1,0 +1,11 @@
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\bin\Debug\walk_Rn.exe.config
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\bin\Debug\walk_Rn.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\bin\Debug\walk_Rn.pdb
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.Form1.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.Properties.Resources.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\walk_Rn\walk_Rn\obj\Debug\walk_Rn.pdb
